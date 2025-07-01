@@ -1,3 +1,14 @@
+# Asciinema Player support for next js 
+
+
+Have you every wanted to use Asciinema in Next js? You can use this repo as template code onto how you can install the npm package and use it as a component.
+
+You can checkout the official [Asccinema-Player](https://www.npmjs.com/package/asciinema-player) package here! 
+
+Thanks!
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
