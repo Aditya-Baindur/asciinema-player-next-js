@@ -1,4 +1,6 @@
 @import "tailwindcss";
+@import "asciinema-player/dist/bundle/asciinema-player.css";
+
 
 :root {
   --background: #ffffff;
